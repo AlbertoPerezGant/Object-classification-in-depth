@@ -11,6 +11,6 @@ pip install tensorflow
 pip install pyrealsense2 
 ```
 
-The code has been made following the instructions from [TensorFlow (intelrealsense.com)](https://dev.intelrealsense.com/docs/tensorflow-with-intel-realsense-cameras)
+The code has been made following the instructions from [TensorFlow (intelrealsense.com)](https://dev.intelrealsense.com/docs/tensorflow-with-intel-realsense-cameras).
 
 It has been adapted for depth filtering.
