@@ -5,7 +5,7 @@ This repository uses a Realsense camera for object classification depending the 
 It uses OpenCV, numpy, Tensorflow and the Intel RealSense library pyrealsense2.`
 
 ```
-pip install python-opencv 
+pip install opencv-python 
 pip install numpy 
 pip install tensorflow 
 pip install pyrealsense2 
