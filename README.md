@@ -13,4 +13,6 @@ pip install pyrealsense2
 
 The code has been made following the instructions from [TensorFlow (intelrealsense.com)](https://dev.intelrealsense.com/docs/tensorflow-with-intel-realsense-cameras).
 
+Download and extract one of the models from https://github.com/opencv/opencv/wiki/TensorFlow-Object-Detection-API#use-existing-config-file-for-your-model page.
+
 It has been adapted for depth filtering.
