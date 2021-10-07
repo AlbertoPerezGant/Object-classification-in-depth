@@ -15,6 +15,6 @@ The code has been made following the instructions from [TensorFlow (intelrealsen
 
 Download and extract one of the models from https://github.com/opencv/opencv/wiki/TensorFlow-Object-Detection-API#use-existing-config-file-for-your-model page.
 
-We use Faster-RCNN Inception v2 for this example. Extracted ´´´frozen_inference_graph.pb´´´ is expected to be in the working directory when running the script.
+We use Faster-RCNN Inception v2 for this example. Extracted frozen_inference_graph.pb is expected to be in the working directory when running the script.
 
 It has been adapted for depth filtering.
